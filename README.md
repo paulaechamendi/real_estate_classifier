@@ -7,8 +7,6 @@ Automatic classification of real estate images into 15 scene categories using tr
 ```
 real-estate-classifier/
 ├── real_estate_classifier_v2.ipynb   # Training notebook (Google Colab)
-|
-|__  memoria_trabajo_MLII.docx
 |   
 ├── api/
 │   ├── fastapi_backend.py            # FastAPI REST API
